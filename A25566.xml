@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to Prince Rvperts declaration</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25566</idno>
+            <idno type="STC">Wing A3373</idno>
+            <idno type="EEBO-CITATION">12184266</idno>
+            <idno type="OCLC">ocm 12184266</idno>
+            <idno type="VID">197046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E89, no 25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to Prince Rvperts declaration</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682. --  Declaratie van Prins Robbert.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197046:1" rendition="simple:additions"/>
+            <p>AN ANSVVER TO PRINCE RVPERTS DECLARATION.</p>
+            <p>Printed in the Yeare, 1643. <hi>February</hi> 16.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197046:2"/>
+            <pb n="1" facs="tcp:197046:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He wonder is not great to have your Highnes name in Print, when no cauſe can be ſo bad, nor dictate ſo unlikely, but may (for a ſmall hope where you are) find a pen ſutable to them.</p>
+            <p>Neither can there be any great pru<g ref="char:EOLhyphen"/>dence diſcovered in ſuffering your ſelf to be held out to the people, as the chiefeſt Inſtrument that hath cauſed this cruell, and unheard of calamitie, no more then in caſting this generall aſperſion upon the Nation, as if it did not deſerve to be governed by ſo good a King as His Majeſty; the belief of which may be the cauſe His Majeſtie hath communicated ſo much of his power to your Highneſſe, and the reſt of his bad Counſellours, who are able to over-ballance more piety and goodnes, then ever could be found in any one man living; There<g ref="char:EOLhyphen"/>fore it is againſt you and your adherents (fore-runners in Religion and nature) that we take up Armes, and not againſt His ſacred majeſty, as you are pleaſed to up<g ref="char:EOLhyphen"/>braid us.</p>
+            <p>And yet your Highneſſe ſo farre forgets your own naturall diſpoſition, as to lay falſhood at the doore of my Lord <hi>Wharton,</hi> who may ignorantly erre, yet can ne<g ref="char:EOLhyphen"/>ver be charged with ſo much impietie, as the calling heaven and earth to witneſſe it, a dyalect too well known amongſt you; beſides I have met with divers that are able to take up as much belief upon their bare words, as your Highneſſe, who have juſtified this Re<g ref="char:EOLhyphen"/>lation in every particular.</p>
+            <pb n="2" facs="tcp:197046:3"/>
+            <p>That a great part of your Cavelry left the Battell to plunder the baggage, your own men confeſſe; And we cannot but acknowledge it with thanks to God. But whether your Highneſſe were ſo neer danger your ſelf, or ſome other more valiant Prince <hi>Rupert</hi> beſides, is hard to affirme, becauſe about that time, <hi>Rupert</hi> made your Army very fruitfull in thoſe did perſonate that title. How faſt your Highneſſe may be bound in Ho<g ref="char:EOLhyphen"/>nour I know not, this I am ſure of, <hi>Love, Religion,</hi> or <hi>Charitie</hi> can take little hold on you, elſe you would not plunder, ſpoyle, and bring to ſuch miſerie, thoſe that have ventured their lives to reſtore your Familie, and have freely given from their own children, to pay for your nurſing; Therefore your gratitude to His Majeſtie is barely pretended, He onely gave you power to aske and receive, but the peoples goodneſſe alone made them give to the Queene of Bohemiah, ſo many great and free contributions, and now you have not onely taken away their wils, but their means of ever doing the like; having brought us to ſo wretched a condition our ſelves, that we ſhall never hereafter have leiſure to pitie her, but rather conſider her as the Mother of our Ca<g ref="char:EOLhyphen"/>lamitie.</p>
+            <p>It asketh no great credulitie to beleeve the Standard was taken, for I have not yet met a man ſo partiall as to doubt it; but ſuch as hold no truth is to be obſerved, which is in any thing can be done or ſpoken, as appeared by your demeanour at Brainford.</p>
+            <p>Now here your Highneſſe begins to ſhuffle your matters as if you meant to ſhew us a trick, and make us beleeve contrarie to our own ſenſe, that we loſt more men then you at Keinton, though double the number
+<pb n="3" facs="tcp:197046:3"/>we want, were found ſlain with ſtole Mutton, Hennes, and Turkies, in their mouthes, hands, or ſnap-ſacks, the knowne marke of your Highneſſe Hoſpitalitie, and of men of note you want fourtie for one, and might have done more, but that they ſaved themſelves by turning High-landers, as you call them, being not furniſhed with a ſpirit of extempory fighting, though your High<g ref="char:EOLhyphen"/>neſſe is pleaſed to charge them with that gift, which may give ſome cauſe to think you are turned Browniſt, as likely a thing as that the Parliament ſhould imploy Papiſts: Now you cannot wonder if your common Souldiers be not miſt, conſiſting for the moſt part of arrant Rogues and Strangers, which had never no cer<g ref="char:EOLhyphen"/>taine being, till now in their graves, nor will they be looked after till the day of judgement; when you ſhall be aſhamed of being ſeene in the Head of ſo many Po<g ref="char:EOLhyphen"/>piſh Recuſants, not onely of this Nation, but fetcht from <hi>Ireland, Wales,</hi> and <hi>Denmarke,</hi> And yet we muſt beleeve your Highneſſe doth it to defend the Prote<g ref="char:EOLhyphen"/>ſtant Religion, Libertie of the Subject, and Priviledge of Parliament.</p>
+            <p>And here you beſtow your Courtſhip upon the Citi<g ref="char:EOLhyphen"/>zens, who might be abuſed to ſome purpoſe, my Lord <hi>Wharton</hi> never intended they ſhould ſuffer you and your Cavalieers to enter London upon your Highneſſe word: For ſure your Armie that could not hold from plun<g ref="char:EOLhyphen"/>dering the poore lowſie Blanckets and Beds at <hi>Brain<g ref="char:EOLhyphen"/>ford, Redding, Malborrow,</hi> and where not, would hardly ſpare the rich Petticoats in <hi>London;</hi> I ſay no more for making your Highneſſe bluſh, onely I beleeve the hope of this bootie, rather then the conſcience you talk of, or the goodneſſe of your cauſe, makes you continue
+<pb n="4" facs="tcp:197046:4"/>your running valour. Your Highneſſe, they ſay, love women well enough that are for your turne, though it ſhould ſeeme at <hi>Keinton</hi> your valour exceeded your luſt, ſo farre together with the women to kill children and dogges; which may be better excuſed then the hanging of <hi>Boyſe</hi> in cold blood for being of a contrarie Religion to the Governour, and for having more ho<g ref="char:EOLhyphen"/>neſtie then would trouble the ſtock of your Highneſſe beſt Regiment.</p>
+            <p>I dare not accept the brave challenge you make, be<g ref="char:EOLhyphen"/>cauſe I number no Kings amongſt my Anceſtors; yet this I will promiſe you on the word of a Gentleman, If I meet you in the field, before this is compoſed, I ſhall endeavour to ſend your Highneſſe into another King<g ref="char:EOLhyphen"/>dome, where there is no plundering.</p>
+            <p>I know not who you meane that was uſed ſo cruelly, unleſſe <hi>Savage, Layton, Lilborne, Pim,</hi> &amp;c. who were puniſhed beyond the crueltie of Infidels: And if it were that time of government, that ſeemes to your Highneſſe too good for this Nation, I think the Palatinate hap<g ref="char:EOLhyphen"/>pier now, then it would have been, had you ſucceeded your Father.</p>
+            <p>You aske, whoſe money have you taken, which may be anſwered by whoſe you have ſpared, nay was there not a Warrant under his Majeſties owne hand, where the materialls of my Lord <hi>Sayes</hi> Houſe is given to any that ſhall pull it downe.</p>
+            <p>Beſides, It were ſtrange, Souldiers daily payd, ſhould doe more miſchiefe then thoſe who have no<g ref="char:EOLhyphen"/>thing to live on, but the ſpoyle of the Kingdome. For prophaning of Churches, you know at <hi>Kingstone</hi> your Horſes ſtood in the Chancell, and the whores lay
+<pb n="5" facs="tcp:197046:4"/>in the body of the Church, which was too immodeſt to be done before the picture of our Lady, therefore the Souldiers are the leſſe to be blamed that remo<g ref="char:EOLhyphen"/>ved it.</p>
+            <p>The Parliament hath reſtrained many, but none a<g ref="char:EOLhyphen"/>gainſt ſafe conduct, whereas you have committed thoſe that had his Majeſties hand and ſeale, making that ſa<g ref="char:EOLhyphen"/>cred word of none effect, which was all the <hi>Perſians</hi> had to ſhew for their lives and fortunes.</p>
+            <p>I will not charge your Highneſſe for doing any thing unworthy your condition, which in charitie I deſire were not ſo ſutable to theſe courſes, yet I wonder you ſhould ſo much forget your ſelfe, and your Father, as to brand our Armie with the name of Traytors, who cannot but have as juſt a claime to our Liberties, as he had to the Crowne of <hi>Bohemiah,</hi> and may by as juſt reaſons take up Armes againſt His Majeſties ill Counſell, as he and your ſelfe, did againſt the perſon of the Emperour.</p>
+            <p>Neither can your Highneſſe thinke any ſo ſimple, to beleeve the Parliament can imploy with confidence any Papiſts to fight for them, no more then they can in diſcretion or ſafetie ſend you, with your Cavaliers, to oppoſe them in <hi>Ireland.</hi>
+            </p>
+            <p>I doe not finde after you had by your good conduct loſt your brothers Armie in <hi>Germanie,</hi> that your re<g ref="char:EOLhyphen"/>ſtraint was very hard, becauſe your next diſpatch was for your hawkes and dogges.</p>
+            <p>I am glad your Highneſſe is ſo godly, as to thinke of praying; for it hath been ſaid, you are very ſeldome upon your knees, but when you drinke to the confu<g ref="char:EOLhyphen"/>ſion of the Round-heads, and the Parliament.</p>
+            <pb n="6" facs="tcp:197046:5"/>
+            <p>And now I cannot conclude better, then your High<g ref="char:EOLhyphen"/>neſſe doth, He that hath a Deſigne againſt the Prote<g ref="char:EOLhyphen"/>ſtant Religion, the Lawes of <hi>England,</hi> or hopes to plunder <hi>London,</hi> let him be accurſed; And God bleſſe the KING, and this Parliament, and ſend us peace and truth to performe what we promiſe. Which are the prayers of</p>
+            <closer>
+               <signed>Your Highneſſe humble <hi>SERVANT.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
